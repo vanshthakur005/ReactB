@@ -59,7 +59,7 @@ The app supports full CRUD operations on blog posts, includes dark/light mode, a
 - Every add/edit/delete/like action updates localStorage
 - Example:  
   `localStorage.setItem("blogs", JSON.stringify(blogs));`
-- Data persists after page refresh
+- Data persists after page refreshh
 
 ---
 
